@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="320" viewBox="0 0 1280 320">
+  <defs>
+    <radialGradient id="g1" cx="0.05" cy="-0.2" r="0.7"><stop offset="0" stop-color="#2fb0ff" stop-opacity=".32"/><stop offset="1" stop-color="#2fb0ff" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g2" cx="1" cy="1.2" r="0.75"><stop offset="0" stop-color="#9300ff" stop-opacity=".36"/><stop offset="1" stop-color="#9300ff" stop-opacity="0"/></radialGradient>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2fb0ff"/><stop offset="1" stop-color="#b06dff"/></linearGradient>
+  </defs>
+  <rect width="1280" height="320" rx="24" fill="#070a18"/>
+  <rect width="1280" height="320" rx="24" fill="url(#g1)"/>
+  <rect width="1280" height="320" rx="24" fill="url(#g2)"/>
+  <image xlink:href="rocket.svg" href="rocket.svg" x="72" y="74" width="172" height="172"/>
+  <text x="276" y="178" font-family="Instrument Sans" font-weight="700" font-size="104" fill="#f2ede4" letter-spacing="-2">2342<tspan fill="url(#brand)">.ai</tspan></text>
+  <text x="282" y="236" font-family="Instrument Serif" font-size="40" fill="#f2ede4" fill-opacity=".72">One access for current AI models. <tspan font-style="italic" fill="url(#brand)">Visible data paths.</tspan></text>
+  <text x="1208" y="282" text-anchor="end" font-family="Instrument Sans" font-weight="600" font-size="18" letter-spacing="2" fill="#f2ede4" fill-opacity=".45">CHAT · WORKSPACES · API · EU INFERENCE</text>
+</svg>
